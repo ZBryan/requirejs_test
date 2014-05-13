@@ -1,0 +1,25 @@
+{
+  "name": "require_test",
+  "version": "0.0.0",
+  "authors": [
+    "Zach Bryan <zachx1@gmail.com>"
+  ],
+  "description": "\"trying out requirejs\"",
+  "main": "app.js",
+  "keywords": [
+    "requirejs",
+    "express"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11"
+  }
+}
